@@ -1,6 +1,6 @@
 # credit_approval_system
 
-This Credit Approval System is a Django-based application designed to assess loan eligibility for customers based on various factors such as credit score, loan history, and financial information. The system comprises models for customers and loans, along with APIs for customer registration and loan eligibility checks.
+This Credit Approval System is a Django-based application designed to assess handling the big excel data.
 
 
 **APIs**
